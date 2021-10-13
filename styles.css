@@ -1,0 +1,46 @@
+H1 {
+
+	font-size: 30px;
+    color:black;
+}
+
+H2 {
+    font-size: 20px;
+    padding: 30px;
+
+}
+
+* {box-sizing:border-box; }
+
+nav {
+    float:left;
+    width: 15%;
+    font-family: Cambria;
+    background-color: yellowgreen;
+    color: greenyellow;
+    padding: 20px
+}
+
+main {
+    float:left;
+    width: 85%;
+    background-color: chocolate;
+    padding: 50px
+}
+
+
+body {
+	background-color: beige;
+	color: black;
+}
+
+xnav ul { list-style-type: none;}
+xnav a {text-decoration: none;}
+xnav a:hover { color:blueviolet}
+xnav li {display: inline;}
+
+a:hover {
+    color:red;
+}
+
+footer {clear:both}
