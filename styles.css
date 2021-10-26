@@ -32,6 +32,9 @@ main {
 body {
 	background-color: beige;
 	color: black;
+    width:90%;
+    Margin-left:auto;
+    margin-right:auto;
 }
 
 xnav ul { list-style-type: none;}
