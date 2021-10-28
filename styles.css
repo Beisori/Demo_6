@@ -21,6 +21,18 @@ nav {
     padding: 20px
 }
 
+#topbar {
+    xfloat:left;
+    width: 100%;
+    font-family: Cambria;
+    background-color: rgb(141, 196, 23);
+    color: rgb(91, 146, 7);
+    padding: 20px
+}
+#topbar li {
+    display: inline;
+}
+
 main {
     float:left;
     width: 85%;
