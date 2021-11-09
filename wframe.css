@@ -1,44 +1,31 @@
 H1 {
-
+    text-align: center;
 	font-size: 30px;
     color:black;
 }
 
 H2 {
     font-size: 20px;
-    padding: 30px;
+    padding: 10px;
 
 }
 
 * {box-sizing:border-box; }
 
 nav {
-    float:left;
-    width: 15%;
+
     font-family: Cambria;
-    background-color: yellowgreen;
+    background-color: rgb(255, 255, 255);
     color: greenyellow;
-    padding: 20px
+
 }
 
-#topbar {
-    xfloat:left;
-    width: 100%;
-    font-family: Cambria;
-    background-color: rgb(141, 196, 23);
-    color: rgb(91, 146, 7);
-    padding: 20px
-}
-#topbar li {
-    display: inline;
-}
 
 
 
 main {
-    float:left;
-    width: 85%;
-    background-color: chocolate;
+
+    background-color: rgb(235, 209, 97);
     padding: 50px
 }
 
