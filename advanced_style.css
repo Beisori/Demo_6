@@ -1,0 +1,6 @@
+h1 {
+    border: 1px solid;
+    padding: 10px;
+    Box-shadow: 5px 10px green;
+    text-shadow: 2px 2px red;
+}
