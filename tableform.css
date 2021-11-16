@@ -46,10 +46,6 @@ body {
     margin-right:auto;
 }
 
-xnav ul { list-style-type: none;}
-xnav a {text-decoration: none;}
-xnav a:hover { color:blueviolet}
-xnav li {display: inline;}
 
 a:hover {
     color:red;
@@ -61,3 +57,11 @@ caption {
     display: table-caption;
     text-align: center;
   }
+
+table, td {
+    border: 1px solid black;
+}
+
+tbody {
+    background-color: lightsalmon;
+}
