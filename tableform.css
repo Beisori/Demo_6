@@ -1,0 +1,63 @@
+H1 {
+    text-align: center;
+	font-size: 30px;
+    color:black;
+}
+
+H2 {
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+* {box-sizing:border-box; }
+
+nav {
+
+    font-family: Cambria;
+    background-color: rgb(255, 255, 255);
+    color: greenyellow;
+
+}
+
+#myborder {
+    background-color: rgb(70, 69, 69);
+
+}
+
+
+#myheader {
+    background-color: grey;
+
+}
+
+main {
+
+    background-color: rgb(235, 209, 97);
+    padding: 50px
+}
+
+
+body {
+	background-color: beige;
+	color: black;
+    width:90%;
+    Margin-left:auto;
+    margin-right:auto;
+}
+
+xnav ul { list-style-type: none;}
+xnav a {text-decoration: none;}
+xnav a:hover { color:blueviolet}
+xnav li {display: inline;}
+
+a:hover {
+    color:red;
+}
+
+footer {clear:both}
+
+caption {
+    display: table-caption;
+    text-align: center;
+  }
