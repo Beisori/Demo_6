@@ -1,6 +1,26 @@
 h1 {
-    border: 1px solid;
-    padding: 10px;
-    Box-shadow: 5px 10px green;
     text-shadow: 2px 2px red;
+    border: 2px solid black;
+    width: fit-content;
+    background-image: url("water.jpeg");
+    background-size: cover;
 }
+
+h2 {
+    border: 1px solid;
+    width: fit-content;
+    padding: 10px;
+    Box-shadow: 5px 10px grey;
+}
+
+a:hover {
+    color: red;
+    transition: 3s;
+  }
+
+  @media only screen and (max-width: 800px) {
+    body {
+      background-color: black;
+      color: white;
+    }
+  }
